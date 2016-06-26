@@ -1,8 +1,10 @@
-BitJam provides a data structure to monitor and detect traffic congestion.
-It can be used for rate limiting, as back-pressure mechanism, or some sort
-of interval sampling.
+bitjam provides a data structure to monitor and detect traffic congestion.
+It can be used for rate limiting, or as back-pressure mechanism or interval
+sampling.
+
 
 `pip install bitjam`
+
 
 ```python
 
