@@ -6,7 +6,7 @@ setup(
   description='A simple traffic congestion monitor',
   author='Juan Alvarez',
   author_email='ihavetheblues@gmail.com',
-  url='git@github.com:jalvz/bitjam.git',
+  url='https://github.com/jalvz/bitjam',
   keywords=['back-pressure', 'rate-limiting'],
   classifiers=[],
 )
